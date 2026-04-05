@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/webhook", "dest": "/api/webhook.js" },
+    { "src": "/watch", "dest": "/api/watch.js" }
+  ]
+}
